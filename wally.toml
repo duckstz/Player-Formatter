@@ -1,0 +1,10 @@
+[package]
+name = "duckstz/player-formatter"
+description = "A player formatter that returns the players username formatted with Roblox Icons"
+license = "MIT"
+authors = ["Duckstz"]
+version = "0.0.1"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
